@@ -11,3 +11,8 @@
     action :install
   end
 end
+
+p "----"
+p ENV['MACKEREL_AGENT_APIKEY']
+node.default['mackerel-agent']['apikey'] = ENV['MACKEREL_AGENT_APIKEY']
+include_recipe 'mackerel-agent'
