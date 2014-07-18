@@ -6,6 +6,9 @@ DEPENDENCIES
     git: git://github.com/fnichol/chef-rbenv.git
     revision: f2b53292e810dd2b43f6121f9958f5f29979dcb1
     branch: v0.7.2
+  zabbix
+    git: https://github.com/tamu222i/zabbix-cookbook.git
+    revision: aa0915d7df28555dd4257823b5b5b3bb130c57f0
 
 GRAPH
   apt (2.4.0)
@@ -18,3 +21,4 @@ GRAPH
     ruby_build (>= 0.0.0)
   ruby_build (0.8.0)
   yum (3.2.2)
+  zabbix (0.1.0)

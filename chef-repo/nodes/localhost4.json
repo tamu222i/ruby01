@@ -13,6 +13,7 @@
   "run_list":[
     "recipe[init]",
     "recipe[ruby_build]",
-    "recipe[rbenv::user]"
+    "recipe[rbenv::user]",
+    "recipe[zabbix]"
   ]
 }
