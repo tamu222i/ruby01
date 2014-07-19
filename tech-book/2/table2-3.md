@@ -1,4 +1,4 @@
-** requireとloadの違い
+## requireとloadの違い
 
 | 条件 | require | load |
 | --- | --- | --- |
