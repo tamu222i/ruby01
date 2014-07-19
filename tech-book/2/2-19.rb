@@ -1,3 +1,5 @@
+# クラスの定義
+
 class Hoge
   def test
     1
