@@ -1,6 +1,6 @@
 # クラス継承の例
 
-require "4-1"
+eval File.read "4-1.rb"
 class FooExt < Foo
   def initialize(a, b)
     @b = b

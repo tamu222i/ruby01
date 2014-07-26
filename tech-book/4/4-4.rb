@@ -1,4 +1,4 @@
 # classメソッド
 
-require "4-1"
+eval File.read "4-3.rb"
 foo1.class
