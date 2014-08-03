@@ -1,0 +1,9 @@
+# yamlのサンプル
+
+---
+- Red
+- Green
+- Blue
+---
+country: Japan
+state: Tokyo
