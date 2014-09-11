@@ -4,3 +4,4 @@ cookbook 'rbenv',
 cookbook 'mackerel-agent',
   :git => 'https://github.com/mackerelio/cookbook-mackerel-agent.git'
 cookbook 'zabbix', :git => 'https://github.com/tamu222i/zabbix-cookbook.git'
+cookbook 'nodebrew', :git => 'https://github.com/linyows/nodebrew-cookbook.git'

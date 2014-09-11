@@ -2,6 +2,9 @@ DEPENDENCIES
   mackerel-agent
     git: https://github.com/mackerelio/cookbook-mackerel-agent.git
     revision: f2602913b5050fc6bf018aca62bf20f298694cab
+  nodebrew
+    git: https://github.com/linyows/nodebrew-cookbook.git
+    revision: f5230e68686af0cd0893e6b53fb806c83b7930a4
   rbenv
     git: git://github.com/fnichol/chef-rbenv.git
     revision: f2b53292e810dd2b43f6121f9958f5f29979dcb1
@@ -12,13 +15,34 @@ DEPENDENCIES
 
 GRAPH
   apt (2.4.0)
+  build-essential (2.0.6)
+  chef_handler (1.1.6)
+  dmg (2.2.0)
+  git (4.0.2)
+    build-essential (>= 0.0.0)
+    dmg (>= 0.0.0)
+    runit (>= 1.0.0)
+    windows (>= 0.0.0)
+    yum (~> 3.0)
+    yum-epel (>= 0.0.0)
   java (1.22.0)
   mackerel-agent (0.1.0)
     apt (>= 0.0.0)
     yum (>= 2.0.0)
+  nodebrew (0.2.0)
+    build-essential (>= 0.0.0)
+    git (>= 0.0.0)
   rbenv (0.7.2)
     java (> 1.4.0)
     ruby_build (>= 0.0.0)
   ruby_build (0.8.0)
+  runit (1.5.10)
+    build-essential (>= 0.0.0)
+    yum (~> 3.0)
+    yum-epel (>= 0.0.0)
+  windows (1.34.2)
+    chef_handler (>= 0.0.0)
   yum (3.2.2)
+  yum-epel (0.5.1)
+    yum (~> 3.0)
   zabbix (0.1.0)
