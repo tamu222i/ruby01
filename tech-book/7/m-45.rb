@@ -3,9 +3,9 @@
 h = {"Foo"=>"Hoge","Bar"=>"Piyo","Baz"=>"Fuga"}
 x
 
-# 1.p h.member?("Foo") x
+# 1.p h.member?("Foo")
 # 2.p h.member?("Piyo")
 # 3.p h.include?("Baz")
-# 4.p h.include?("Fuga") x
+# 4.p h.include?("Fuga")
 # 5.p h.has_values?("Hoge")
 # 6.p h.exists_key?("Bar")

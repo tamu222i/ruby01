@@ -7,6 +7,6 @@ x
 # "1,2,3"
 # 
 # 1.p a.to_s(",")
-# 2.p a.join(",") x
+# 2.p a.join(",")
 # 3.p a.concat(",")
 # 4.p a.to_a(",")

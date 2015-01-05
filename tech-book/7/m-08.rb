@@ -11,4 +11,4 @@ end
 # 1.rescue ZeroDivisionError = ex
 # 2.rescue ZeroDivisionError ex
 # 3.rescue ZeroDivisionError -> ex
-# 4.rescue ZeroDivisionError => ex x
+# 4.rescue ZeroDivisionError => ex

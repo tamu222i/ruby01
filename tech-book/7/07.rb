@@ -25,7 +25,7 @@ employees.each do |employee| puts employee end
 # 2:Sato
 # 3:Tanaka
 
-# 1. x
+# 1.
 # def <=> other
 #   return self.id <=> other.id
 # end

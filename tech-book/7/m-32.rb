@@ -6,7 +6,7 @@ b=a
 a.upcase
 print b
 
-# 1.Ruby x
+# 1.Ruby
 # 2.RUBY
 # 3.Rails
 # 4.RAILS

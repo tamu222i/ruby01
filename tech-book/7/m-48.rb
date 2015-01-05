@@ -4,7 +4,7 @@ puts File. x ("/","user","bin")
 
 # 実行結果
 # /user/bin
-# 1.concat x
+# 1.concat
 # 2.append
 # 3.+
 # 4.join

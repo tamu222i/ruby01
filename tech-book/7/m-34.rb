@@ -7,7 +7,7 @@ x.chomp
 p x
 
 # 1."Hello, Worl"
-# 2."Hello, World" x
+# 2."Hello, World"
 # 3."Hello, World."
 # 4."Hello, World.\n"
 # 5.nil

@@ -11,5 +11,5 @@ end
 
 # 1. 3Else.と表示される
 # 2. Error.と表示
-# 3. Type Error.と表示される x
+# 3. Type Error.と表示される
 # 4. Else.と表示される

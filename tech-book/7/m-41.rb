@@ -3,6 +3,6 @@
 p "HogeHOGEhoge"[/[A-Z][^A-Z]+/]
 
 # 1.nil
-# 2."Hoge" x
+# 2."Hoge"
 # 3."HOGE"
 # 4."eHOGE"

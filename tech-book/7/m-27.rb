@@ -8,6 +8,6 @@ p x
 # 1.a.collect{|v|v*2}
 # 2.a.inject{|v|v*2}
 # 3.a.each{|v|v*2}
-# 4.a.map{|v|v*2} x
+# 4.a.map{|v|v*2}
 # 5.a.select{|v|v*2}
 # 6.a.execute{|v|v*2}

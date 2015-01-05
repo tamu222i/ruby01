@@ -5,8 +5,8 @@ def area r
 end
 
 # 1.メソッドの定義の上にinclude Mathと記述する
-# 2.メソッドの定義の上にrequire "Math"と記述する x
+# 2.メソッドの定義の上にrequire "Math"と記述する
 # 3.メソッドの定義の上にrequire Mathと記述する
 # 4.PIの前にMath.と記述する
-# 5.PIの前にMath::と記述する x
+# 5.PIの前にMath::と記述する
 # 6.PIをMath(PI)と書き換える

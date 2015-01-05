@@ -5,4 +5,4 @@ p "hogepiyohogehoge".slice(/o../)
 # 1.""
 # 2."oge"
 # 3."ogepiyohogehoge"
-# 4.["oge","oho","oge"] x
+# 4.["oge","oho","oge"]

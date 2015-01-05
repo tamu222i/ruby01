@@ -7,5 +7,5 @@ print "ID:%2d Nmae:%s" x member
 # ID:10 Nmae:Tanaka
 # 1. ,
 # 2. +
-# 3. % x
+# 3. %
 # 4. .format

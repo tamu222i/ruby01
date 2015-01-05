@@ -9,4 +9,4 @@ puts t.strftime("x")
 # 1. %y/%m/%d
 # 2. %Y/%M/%d
 # 3. %y/%M/%d
-# 4. %Y/%m/%d x
+# 4. %Y/%m/%d

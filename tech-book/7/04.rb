@@ -14,7 +14,7 @@ class Piyo < Hoge
 end
 puts Piyo.new.message
 
-# 1.Hello x
+# 1.Hello
 # 2.Hi
 # 3.superはinitializeメソッドの先頭になければならないため、実行時エラーとなる
 # 4.変数@messageは、読み取り専用でありサブクラスのメソッドでは変更できないため、実行時エラーとなる

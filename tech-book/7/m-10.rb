@@ -16,4 +16,4 @@ puts Chile.new("Hoge").name
 # 1.実行時エラー
 # 2.何も表示されない
 # 3.Hogeと表示される
-# 4.ChildHogeと表示される x
+# 4.ChildHogeと表示される

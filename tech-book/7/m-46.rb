@@ -5,4 +5,4 @@
 # 3.Dir.open
 # 4.Dir.mkdir
 # 5.Dir.rmdir
-# 6.Dir.chdir x
+# 6.Dir.chdir

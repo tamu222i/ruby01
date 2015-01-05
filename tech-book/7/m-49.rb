@@ -8,4 +8,4 @@ x
 # 1.printf(("%Y/%m/%d),t.year,t.mon,t.day)
 # 2.printf(("%Y/%m/%d") % t)
 # 3.print(t.format("%Y/%m/%d"))
-# 4.print(t.strftime("%Y/%m/%d")) x
+# 4.print(t.strftime("%Y/%m/%d"))

@@ -7,7 +7,7 @@ s1.chomp
 s1+s2
 puts s1
 # 1.HogeFuga
-# 2.HogeFug x
+# 2.HogeFug
 # 3.HogeFu
 # 4.HogeFugaFuga
 # 5.HogeFugFuga

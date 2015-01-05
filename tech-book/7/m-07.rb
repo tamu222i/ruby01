@@ -11,6 +11,6 @@
 # 1.A begin B catch C finally
 # 2.A try B rescue C ensure
 # 3.A start B retry C redo
-# 4.A begin B rescue C ensure x
+# 4.A begin B rescue C ensure
 # 5.A try B catch C redo
 # 6.A start B retry C finally

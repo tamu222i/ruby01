@@ -10,5 +10,5 @@ a.x{|item,i|print i,":",item,"\n"}
 #
 # 1.each
 # 2.each_index
-# 3.each_with_index x
+# 3.each_with_index
 # 4.each_pair
