@@ -1,6 +1,6 @@
 # クラスに対するextend
 
-Module M4
+module M4
   def method1; 1; end
 end
 
