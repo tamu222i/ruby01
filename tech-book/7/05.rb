@@ -1,4 +1,5 @@
 # 以下のメソッドを動かすための修正方法
+# 2つ選択
 
 def area r
   return r*r*PI
